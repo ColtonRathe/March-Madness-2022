@@ -1,0 +1,631 @@
+"","Tournament_Game","Year","Month","Day","Team1","Team1_Seed","Team1_Score","Team2","Team2_Seed","Team2_Score"
+"1","NCAA, Southeast - Second Round","2011","3","17","Pitt",1,74,"UNC Asheville",16,51
+"2","NCAA, Southeast - Second Round","2011","3","17","Florida",2,79,"UCSB",15,51
+"3","NCAA, West - Second Round","2011","3","17","San Diego State",2,68,"Northern Colorado",15,50
+"4","NCAA, West - Second Round","2011","3","17","UConn",3,81,"Bucknell",14,52
+"5","NCAA, Southeast - Second Round","2011","3","17","Wofford",14,66,"BYU",3,74
+"6","NCAA, Southwest - Second Round","2011","3","17","Morehead State",13,62,"Louisville",4,61
+"7","NCAA, East - Second Round","2011","3","17","Princeton",13,57,"Kentucky",4,59
+"8","NCAA, Southeast - Second Round","2011","3","17","Wisconsin",4,72,"Belmont",13,58
+"9","NCAA, Southeast - Second Round","2011","3","17","Utah State",12,68,"Kansas State",5,73
+"10","NCAA, Southwest - Second Round","2011","3","17","Vanderbilt",5,66,"Richmond",12,69
+"11","NCAA, East - Second Round","2011","3","17","West Virginia",5,84,"Clemson",12,76
+"12","NCAA, West - Second Round","2011","3","17","Missouri",11,63,"Cincinnati",6,78
+"13","NCAA, Southeast - Second Round","2011","3","17","St Johns NY",6,71,"Gonzaga",11,86
+"14","NCAA, West - Second Round","2011","3","17","Temple",7,66,"Penn State",10,64
+"15","NCAA, Southeast - Second Round","2011","3","17","UCLA",7,78,"Michigan State",10,76
+"16","NCAA, Southeast - Second Round","2011","3","17","Old Dominion",9,58,"Butler",8,60
+"17","NCAA, West - Second Round","2011","3","18","Hampton",16,45,"Duke",1,87
+"18","NCAA, Southwest - Second Round","2011","3","18","Kansas",1,72,"Boston University",16,53
+"19","NCAA, East - Second Round","2011","3","18","UTSA",16,46,"Ohio State",1,75
+"20","NCAA, East - Second Round","2011","3","18","UNC",2,102,"LIU",15,87
+"21","NCAA, Southwest - Second Round","2011","3","18","Notre Dame",2,69,"Akron",15,56
+"22","NCAA, Southwest - Second Round","2011","3","18","St Peters",14,43,"Purdue",3,65
+"23","NCAA, East - Second Round","2011","3","18","Syracuse",3,77,"Indiana State",14,60
+"24","NCAA, West - Second Round","2011","3","18","Texas",4,85,"Oakland",13,81
+"25","NCAA, West - Second Round","2011","3","18","Memphis",12,75,"Arizona",5,77
+"26","NCAA, Southwest - Second Round","2011","3","18","VCU",11,74,"Georgetown",6,56
+"27","NCAA, East - Second Round","2011","3","18","Xavier",6,55,"Marquette",11,66
+"28","NCAA, Southwest - Second Round","2011","3","18","Texas AM",7,50,"Florida State",10,57
+"29","NCAA, East - Second Round","2011","3","18","Washington",7,68,"Georgia",10,65
+"30","NCAA, Southwest - Second Round","2011","3","18","UNLV",8,62,"Illinois",9,73
+"31","NCAA, West - Second Round","2011","3","18","Tennessee",9,45,"Michigan",8,75
+"32","NCAA, East - Second Round","2011","3","18","Villanova",9,57,"George Mason",8,61
+"33","NCAA, Southeast - Third Round","2011","3","19","Pitt",1,70,"Butler",8,71
+"34","NCAA, West - Third Round","2011","3","19","Temple",7,64,"San Diego State",2,71
+"35","NCAA, Southeast - Third Round","2011","3","19","UCLA",7,65,"Florida",2,73
+"36","NCAA, West - Third Round","2011","3","19","UConn",3,69,"Cincinnati",6,58
+"37","NCAA, Southeast - Third Round","2011","3","19","Gonzaga",11,67,"BYU",3,89
+"38","NCAA, East - Third Round","2011","3","19","West Virginia",5,63,"Kentucky",4,71
+"39","NCAA, Southeast - Third Round","2011","3","19","Wisconsin",4,70,"Kansas State",5,65
+"40","NCAA, Southwest - Third Round","2011","3","19","Richmond",12,65,"Morehead State",13,48
+"41","NCAA, Southwest - Third Round","2011","3","20","Kansas",1,73,"Illinois",9,59
+"42","NCAA, West - Third Round","2011","3","20","Michigan",8,71,"Duke",1,73
+"43","NCAA, East - Third Round","2011","3","20","Ohio State",1,98,"George Mason",8,66
+"44","NCAA, Southwest - Third Round","2011","3","20","Notre Dame",2,57,"Florida State",10,71
+"45","NCAA, East - Third Round","2011","3","20","Washington",7,83,"UNC",2,86
+"46","NCAA, East - Third Round","2011","3","20","Syracuse",3,62,"Marquette",11,66
+"47","NCAA, Southwest - Third Round","2011","3","20","VCU",11,94,"Purdue",3,76
+"48","NCAA, West - Third Round","2011","3","20","Texas",4,69,"Arizona",5,70
+"49","NCAA, West - Regional Semifinal","2011","3","24","Duke",1,77,"Arizona",5,93
+"50","NCAA, Southeast - Regional Semifinal","2011","3","24","Florida",2,83,"BYU",3,74
+"51","NCAA, West - Regional Semifinal","2011","3","24","San Diego State",2,67,"UConn",3,74
+"52","NCAA, Southeast - Regional Semifinal","2011","3","24","Wisconsin",4,54,"Butler",8,61
+"53","NCAA, East - Regional Semifinal","2011","3","25","Ohio State",1,60,"Kentucky",4,62
+"54","NCAA, Southwest - Regional Semifinal","2011","3","25","Richmond",12,57,"Kansas",1,77
+"55","NCAA, East - Regional Semifinal","2011","3","25","UNC",2,81,"Marquette",11,63
+"56","NCAA, Southwest - Regional Semifinal","2011","3","25","VCU",11,72,"Florida State",10,71
+"57","NCAA, Southeast - Regional Final","2011","3","26","Florida",2,71,"Butler",8,74
+"58","NCAA, West - Regional Final","2011","3","26","UConn",3,65,"Arizona",5,63
+"59","NCAA, Southwest - Regional Final","2011","3","27","VCU",11,71,"Kansas",1,61
+"60","NCAA, East - Regional Final","2011","3","27","UNC",2,69,"Kentucky",4,76
+"61","NCAA, National - National Semifinal","2011","4","2","Kentucky",4,55,"UConn",3,56
+"62","NCAA, National - National Semifinal","2011","4","2","VCU",11,62,"Butler",8,70
+"63","NCAA, National - National Final","2011","4","4","UConn",3,53,"Butler",8,41
+"64","NCAA, East - Second Round","2012","3","15","Syracuse",1,72,"UNC Asheville",16,65
+"65","NCAA, South - Second Round","2012","3","15","Western Kentucky",16,66,"Kentucky",1,81
+"66","NCAA, East - Second Round","2012","3","15","Ohio State",2,78,"Loyola MD",15,59
+"67","NCAA, West - Second Round","2012","3","15","Marquette",3,88,"BYU",14,68
+"68","NCAA, South - Second Round","2012","3","15","South Dakota State",14,60,"Baylor",3,68
+"69","NCAA, West - Second Round","2012","3","15","Louisville",4,69,"Davidson",13,62
+"70","NCAA, South - Second Round","2012","3","15","New Mexico State",13,66,"Indiana",4,79
+"71","NCAA, East - Second Round","2012","3","15","Wisconsin",4,73,"Montana",13,49
+"72","NCAA, West - Second Round","2012","3","15","New Mexico",5,75,"Long Beach State",12,68
+"73","NCAA, East - Second Round","2012","3","15","Vanderbilt",5,79,"Harvard",12,70
+"74","NCAA, South - Second Round","2012","3","15","Wichita State",5,59,"VCU",12,62
+"75","NCAA, West - Second Round","2012","3","15","Murray State",6,58,"Colorado State",11,41
+"76","NCAA, South - Second Round","2012","3","15","UNLV",6,64,"Colorado",11,68
+"77","NCAA, East - Second Round","2012","3","15","West Virginia",10,54,"Gonzaga",7,77
+"78","NCAA, South - Second Round","2012","3","15","Iowa State",8,77,"UConn",9,64
+"79","NCAA, East - Second Round","2012","3","15","Southern Miss",9,64,"Kansas State",8,70
+"80","NCAA, West - Second Round","2012","3","16","Michigan State",1,89,"LIU",16,67
+"81","NCAA, Midwest - Second Round","2012","3","16","Vermont",16,58,"UNC",1,77
+"82","NCAA, Midwest - Second Round","2012","3","16","Kansas",2,65,"Detroit",15,50
+"83","NCAA, South - Second Round","2012","3","16","Lehigh",15,75,"Duke",2,70
+"84","NCAA, West - Second Round","2012","3","16","Norfolk State",15,86,"Missouri",2,84
+"85","NCAA, Midwest - Second Round","2012","3","16","Georgetown",3,74,"Belmont",14,59
+"86","NCAA, East - Second Round","2012","3","16","St Bonaventure",14,63,"Florida State",3,66
+"87","NCAA, Midwest - Second Round","2012","3","16","Ohio",13,65,"Michigan",4,60
+"88","NCAA, Midwest - Second Round","2012","3","16","Temple",5,44,"South Florida",12,58
+"89","NCAA, Midwest - Second Round","2012","3","16","San Diego State",6,65,"NC State",11,79
+"90","NCAA, East - Second Round","2012","3","16","Texas",11,59,"Cincinnati",6,65
+"91","NCAA, Midwest - Second Round","2012","3","16","Saint Marys",7,69,"Purdue",10,72
+"92","NCAA, West - Second Round","2012","3","16","Virginia",10,45,"Florida",7,71
+"93","NCAA, South - Second Round","2012","3","16","Xavier",10,67,"Notre Dame",7,63
+"94","NCAA, Midwest - Second Round","2012","3","16","Creighton",8,58,"Alabama",9,57
+"95","NCAA, West - Second Round","2012","3","16","Saint Louis",9,61,"Memphis",8,54
+"96","NCAA, South - Third Round","2012","3","17","Kentucky",1,87,"Iowa State",8,71
+"97","NCAA, East - Third Round","2012","3","17","Syracuse",1,75,"Kansas State",8,59
+"98","NCAA, East - Third Round","2012","3","17","Ohio State",2,73,"Gonzaga",7,66
+"99","NCAA, South - Third Round","2012","3","17","Colorado",11,63,"Baylor",3,80
+"100","NCAA, West - Third Round","2012","3","17","Murray State",6,53,"Marquette",3,62
+"101","NCAA, West - Third Round","2012","3","17","New Mexico",5,56,"Louisville",4,59
+"102","NCAA, South - Third Round","2012","3","17","VCU",12,61,"Indiana",4,63
+"103","NCAA, East - Third Round","2012","3","17","Wisconsin",4,60,"Vanderbilt",5,57
+"104","NCAA, Midwest - Third Round","2012","3","18","UNC",1,87,"Creighton",8,73
+"105","NCAA, West - Third Round","2012","3","18","Saint Louis",9,61,"Michigan State",1,65
+"106","NCAA, Midwest - Third Round","2012","3","18","Purdue",10,60,"Kansas",2,63
+"107","NCAA, East - Third Round","2012","3","18","Florida State",3,56,"Cincinnati",6,62
+"108","NCAA, Midwest - Third Round","2012","3","18","NC State",11,66,"Georgetown",3,63
+"109","NCAA, West - Third Round","2012","3","18","Norfolk State",15,50,"Florida",7,84
+"110","NCAA, South - Third Round","2012","3","18","Xavier",10,70,"Lehigh",15,58
+"111","NCAA, Midwest - Third Round","2012","3","18","South Florida",12,56,"Ohio",13,62
+"112","NCAA, West - Regional Semifinal","2012","3","22","Michigan State",1,44,"Louisville",4,57
+"113","NCAA, East - Regional Semifinal","2012","3","22","Wisconsin",4,63,"Syracuse",1,64
+"114","NCAA, East - Regional Semifinal","2012","3","22","Ohio State",2,81,"Cincinnati",6,66
+"115","NCAA, West - Regional Semifinal","2012","3","22","Marquette",3,58,"Florida",7,68
+"116","NCAA, South - Regional Semifinal","2012","3","23","Kentucky",1,102,"Indiana",4,90
+"117","NCAA, Midwest - Regional Semifinal","2012","3","23","Ohio",13,65,"UNC",1,73
+"118","NCAA, Midwest - Regional Semifinal","2012","3","23","NC State",11,57,"Kansas",2,60
+"119","NCAA, South - Regional Semifinal","2012","3","23","Xavier",10,70,"Baylor",3,75
+"120","NCAA, East - Regional Final","2012","3","24","Syracuse",1,70,"Ohio State",2,77
+"121","NCAA, West - Regional Final","2012","3","24","Louisville",4,72,"Florida",7,68
+"122","NCAA, South - Regional Final","2012","3","25","Kentucky",1,82,"Baylor",3,70
+"123","NCAA, Midwest - Regional Final","2012","3","25","UNC",1,67,"Kansas",2,80
+"124","NCAA, National - National Semifinal","2012","3","31","Louisville",4,61,"Kentucky",1,69
+"125","NCAA, National - National Semifinal","2012","3","31","Ohio State",2,62,"Kansas",2,64
+"126","NCAA, National - National Final","2012","4","2","Kentucky",1,67,"Kansas",2,59
+"127","NCAA, Midwest - Second Round","2013","3","21","North Carolina AT",16,48,"Louisville",1,79
+"128","NCAA, West - Second Round","2013","3","21","Southern",16,58,"Gonzaga",1,64
+"129","NCAA, East - Second Round","2013","3","21","Marquette",3,59,"Davidson",14,58
+"130","NCAA, West - Second Round","2013","3","21","New Mexico",3,62,"Harvard",14,68
+"131","NCAA, Midwest - Second Round","2013","3","21","Valparaiso",14,54,"Michigan State",3,65
+"132","NCAA, Midwest - Second Round","2013","3","21","Saint Louis",4,64,"New Mexico State",13,44
+"133","NCAA, South - Second Round","2013","3","21","South Dakota State",13,56,"Michigan",4,71
+"134","NCAA, East - Second Round","2013","3","21","Syracuse",4,81,"Montana",13,34
+"135","NCAA, East - Second Round","2013","3","21","UNLV",5,61,"California",12,64
+"136","NCAA, Midwest - Second Round","2013","3","21","Oregon",12,68,"Oklahoma State",5,55
+"137","NCAA, South - Second Round","2013","3","21","VCU",5,88,"Akron",12,42
+"138","NCAA, West - Second Round","2013","3","21","Belmont",11,64,"Arizona",6,81
+"139","NCAA, East - Second Round","2013","3","21","Butler",6,68,"Bucknell",11,56
+"140","NCAA, Midwest - Second Round","2013","3","21","Saint Marys",11,52,"Memphis",6,54
+"141","NCAA, Midwest - Second Round","2013","3","21","Missouri",9,72,"Colorado State",8,84
+"142","NCAA, West - Second Round","2013","3","21","Wichita State",9,73,"Pitt",8,55
+"143","NCAA, East - Second Round","2013","3","22","James Madison",16,62,"Indiana",1,83
+"144","NCAA, South - Second Round","2013","3","22","Western Kentucky",16,57,"Kansas",1,64
+"145","NCAA, Midwest - Second Round","2013","3","22","Duke",2,73,"Albany NY",15,61
+"146","NCAA, South - Second Round","2013","3","22","Georgetown",2,68,"Florida Gulf Coast",15,78
+"147","NCAA, West - Second Round","2013","3","22","Ohio State",2,95,"Iona",15,70
+"148","NCAA, East - Second Round","2013","3","22","Pacific",15,49,"Miami FL",2,78
+"149","NCAA, South - Second Round","2013","3","22","Northwestern State",14,47,"Florida",3,79
+"150","NCAA, West - Second Round","2013","3","22","La Salle",13,63,"Kansas State",4,61
+"151","NCAA, West - Second Round","2013","3","22","Wisconsin",5,46,"Ole Miss",12,57
+"152","NCAA, South - Second Round","2013","3","22","UCLA",6,63,"Minnesota",11,83
+"153","NCAA, Midwest - Second Round","2013","3","22","Creighton",7,67,"Cincinnati",10,63
+"154","NCAA, East - Second Round","2013","3","22","Illinois",7,57,"Colorado",10,49
+"155","NCAA, West - Second Round","2013","3","22","Notre Dame",7,58,"Iowa State",10,76
+"156","NCAA, South - Second Round","2013","3","22","San Diego State",7,70,"Oklahoma",10,55
+"157","NCAA, East - Second Round","2013","3","22","Temple",9,76,"NC State",8,72
+"158","NCAA, South - Second Round","2013","3","22","Villanova",9,71,"UNC",8,78
+"159","NCAA, Midwest - Third Round","2013","3","23","Louisville",1,82,"Colorado State",8,56
+"160","NCAA, West - Third Round","2013","3","23","Wichita State",9,76,"Gonzaga",1,70
+"161","NCAA, East - Third Round","2013","3","23","Marquette",3,74,"Butler",6,72
+"162","NCAA, Midwest - Third Round","2013","3","23","Michigan State",3,70,"Memphis",6,48
+"163","NCAA, Midwest - Third Round","2013","3","23","Saint Louis",4,57,"Oregon",12,74
+"164","NCAA, East - Third Round","2013","3","23","Syracuse",4,66,"California",12,60
+"165","NCAA, South - Third Round","2013","3","23","VCU",5,53,"Michigan",4,78
+"166","NCAA, West - Third Round","2013","3","23","Harvard",14,51,"Arizona",6,74
+"167","NCAA, South - Third Round","2013","3","24","UNC",8,58,"Kansas",1,70
+"168","NCAA, East - Third Round","2013","3","24","Temple",9,52,"Indiana",1,58
+"169","NCAA, Midwest - Third Round","2013","3","24","Duke",2,66,"Creighton",7,50
+"170","NCAA, East - Third Round","2013","3","24","Miami FL",2,63,"Illinois",7,59
+"171","NCAA, West - Third Round","2013","3","24","Ohio State",2,78,"Iowa State",10,75
+"172","NCAA, South - Third Round","2013","3","24","Minnesota",11,64,"Florida",3,78
+"173","NCAA, South - Third Round","2013","3","24","San Diego State",7,71,"Florida Gulf Coast",15,81
+"174","NCAA, West - Third Round","2013","3","24","Ole Miss",12,74,"La Salle",13,76
+"175","NCAA, East - Regional Semifinal","2013","3","28","Syracuse",4,61,"Indiana",1,50
+"176","NCAA, East - Regional Semifinal","2013","3","28","Miami FL",2,61,"Marquette",3,71
+"177","NCAA, West - Regional Semifinal","2013","3","28","Ohio State",2,73,"Arizona",6,70
+"178","NCAA, West - Regional Semifinal","2013","3","28","Wichita State",9,72,"La Salle",13,58
+"179","NCAA, South - Regional Semifinal","2013","3","29","Michigan",4,87,"Kansas",1,85
+"180","NCAA, Midwest - Regional Semifinal","2013","3","29","Oregon",12,69,"Louisville",1,77
+"181","NCAA, Midwest - Regional Semifinal","2013","3","29","Michigan State",3,61,"Duke",2,71
+"182","NCAA, South - Regional Semifinal","2013","3","29","Florida Gulf Coast",15,50,"Florida",3,62
+"183","NCAA, West - Regional Final","2013","3","30","Wichita State",9,70,"Ohio State",2,66
+"184","NCAA, East - Regional Final","2013","3","30","Syracuse",4,55,"Marquette",3,39
+"185","NCAA, Midwest - Regional Final","2013","3","31","Louisville",1,85,"Duke",2,63
+"186","NCAA, South - Regional Final","2013","3","31","Michigan",4,79,"Florida",3,59
+"187","NCAA, National - National Semifinal","2013","4","6","Wichita State",9,68,"Louisville",1,72
+"188","NCAA, National - National Semifinal","2013","4","6","Syracuse",4,56,"Michigan",4,61
+"189","NCAA, National - National Final","2013","4","8","Michigan",4,76,"Louisville",1,82
+"190","NCAA, South - Second Round","2014","3","20","Florida",1,67,"Albany NY",16,55
+"191","NCAA, East - Second Round","2014","3","20","Villanova",2,73,"Milwaukee",15,53
+"192","NCAA, West - Second Round","2014","3","20","Wisconsin",2,75,"American",15,35
+"193","NCAA, Midwest - Second Round","2014","3","20","Wofford",15,40,"Michigan",2,57
+"194","NCAA, South - Second Round","2014","3","20","Western Michigan",14,53,"Syracuse",3,77
+"195","NCAA, Midwest - Second Round","2014","3","20","Manhattan",13,64,"Louisville",4,71
+"196","NCAA, East - Second Round","2014","3","20","Michigan State",4,93,"Delaware",13,78
+"197","NCAA, West - Second Round","2014","3","20","San Diego State",4,73,"New Mexico State",13,69
+"198","NCAA, East - Second Round","2014","3","20","Harvard",12,61,"Cincinnati",5,57
+"199","NCAA, West - Second Round","2014","3","20","Oklahoma",5,75,"North Dakota State",12,80
+"200","NCAA, Midwest - Second Round","2014","3","20","Saint Louis",5,83,"NC State",12,80
+"201","NCAA, South - Second Round","2014","3","20","Ohio State",6,59,"Dayton",11,60
+"202","NCAA, West - Second Round","2014","3","20","Oregon",7,87,"BYU",10,68
+"203","NCAA, East - Second Round","2014","3","20","St Josephs",10,81,"UConn",7,89
+"204","NCAA, Midwest - Second Round","2014","3","20","Texas",7,87,"Arizona State",10,85
+"205","NCAA, South - Second Round","2014","3","20","Pitt",9,77,"Colorado",8,48
+"206","NCAA, East - Second Round","2014","3","21","Virginia",1,70,"Coastal Carolina",16,59
+"207","NCAA, West - Second Round","2014","3","21","Weber State",16,59,"Arizona",1,68
+"208","NCAA, Midwest - Second Round","2014","3","21","Wichita State",1,64,"Cal Poly",16,37
+"209","NCAA, South - Second Round","2014","3","21","Kansas",2,80,"Eastern Kentucky",15,69
+"210","NCAA, West - Second Round","2014","3","21","Louisiana",14,66,"Creighton",3,76
+"211","NCAA, Midwest - Second Round","2014","3","21","Mercer",14,78,"Duke",3,71
+"212","NCAA, East - Second Round","2014","3","21","North Carolina Central",14,75,"Iowa State",3,93
+"213","NCAA, South - Second Round","2014","3","21","UCLA",4,76,"Tulsa",13,59
+"214","NCAA, South - Second Round","2014","3","21","VCU",5,75,"Stephen F Austin",12,77
+"215","NCAA, West - Second Round","2014","3","21","Nebraska",11,60,"Baylor",6,74
+"216","NCAA, East - Second Round","2014","3","21","Providence",11,77,"UNC",6,79
+"217","NCAA, Midwest - Second Round","2014","3","21","Tennessee",11,86,"UMass",6,67
+"218","NCAA, South - Second Round","2014","3","21","Stanford",10,58,"New Mexico",7,53
+"219","NCAA, Midwest - Second Round","2014","3","21","Kentucky",8,56,"Kansas State",9,49
+"220","NCAA, East - Second Round","2014","3","21","Memphis",8,71,"George Washington",9,66
+"221","NCAA, West - Second Round","2014","3","21","Oklahoma State",9,77,"Gonzaga",8,85
+"222","NCAA, South - Third Round","2014","3","22","Pitt",9,45,"Florida",1,61
+"223","NCAA, Midwest - Third Round","2014","3","22","Texas",7,65,"Michigan",2,79
+"224","NCAA, East - Third Round","2014","3","22","Villanova",2,65,"UConn",7,77
+"225","NCAA, West - Third Round","2014","3","22","Wisconsin",2,85,"Oregon",7,77
+"226","NCAA, South - Third Round","2014","3","22","Syracuse",3,53,"Dayton",11,55
+"227","NCAA, East - Third Round","2014","3","22","Michigan State",4,80,"Harvard",12,73
+"228","NCAA, Midwest - Third Round","2014","3","22","Saint Louis",5,51,"Louisville",4,66
+"229","NCAA, West - Third Round","2014","3","22","San Diego State",4,63,"North Dakota State",12,44
+"230","NCAA, West - Third Round","2014","3","23","Gonzaga",8,61,"Arizona",1,84
+"231","NCAA, East - Third Round","2014","3","23","Virginia",1,78,"Memphis",8,60
+"232","NCAA, Midwest - Third Round","2014","3","23","Wichita State",1,76,"Kentucky",8,78
+"233","NCAA, South - Third Round","2014","3","23","Stanford",10,60,"Kansas",2,57
+"234","NCAA, West - Third Round","2014","3","23","Creighton",3,55,"Baylor",6,85
+"235","NCAA, East - Third Round","2014","3","23","UNC",6,83,"Iowa State",3,85
+"236","NCAA, South - Third Round","2014","3","23","UCLA",4,77,"Stephen F Austin",12,60
+"237","NCAA, Midwest - Third Round","2014","3","23","Tennessee",11,83,"Mercer",14,63
+"238","NCAA, West - Regional Semifinal","2014","3","27","San Diego State",4,64,"Arizona",1,70
+"239","NCAA, South - Regional Semifinal","2014","3","27","UCLA",4,68,"Florida",1,79
+"240","NCAA, West - Regional Semifinal","2014","3","27","Wisconsin",2,69,"Baylor",6,52
+"241","NCAA, South - Regional Semifinal","2014","3","27","Stanford",10,72,"Dayton",11,82
+"242","NCAA, East - Regional Semifinal","2014","3","28","Virginia",1,59,"Michigan State",4,61
+"243","NCAA, Midwest - Regional Semifinal","2014","3","28","Tennessee",11,71,"Michigan",2,73
+"244","NCAA, East - Regional Semifinal","2014","3","28","Iowa State",3,76,"UConn",7,81
+"245","NCAA, Midwest - Regional Semifinal","2014","3","28","Louisville",4,69,"Kentucky",8,74
+"246","NCAA, South - Regional Final","2014","3","29","Florida",1,62,"Dayton",11,52
+"247","NCAA, West - Regional Final","2014","3","29","Wisconsin",2,64,"Arizona",1,63
+"248","NCAA, Midwest - Regional Final","2014","3","30","Michigan",2,72,"Kentucky",8,75
+"249","NCAA, East - Regional Final","2014","3","30","Michigan State",4,54,"UConn",7,60
+"250","NCAA, National - National Semifinal","2014","4","5","Florida",1,53,"UConn",7,63
+"251","NCAA, National - National Semifinal","2014","4","5","Wisconsin",2,73,"Kentucky",8,74
+"252","NCAA, National - National Final","2014","4","7","Kentucky",8,54,"UConn",7,60
+"253","NCAA, Midwest - Second Round","2015","3","19","Kentucky",1,79,"Hampton",16,56
+"254","NCAA, East - Second Round","2015","3","19","Villanova",1,93,"Lafayette",16,52
+"255","NCAA, West - Second Round","2015","3","19","Texas Southern",15,72,"Arizona",2,93
+"256","NCAA, West - Second Round","2015","3","19","Georgia State",14,57,"Baylor",3,56
+"257","NCAA, South - Second Round","2015","3","19","Iowa State",3,59,"UAB",14,60
+"258","NCAA, Midwest - Second Round","2015","3","19","Notre Dame",3,69,"Northeastern",14,65
+"259","NCAA, South - Second Round","2015","3","19","Georgetown",4,84,"Eastern Washington",13,74
+"260","NCAA, West - Second Round","2015","3","19","UNC",4,67,"Harvard",13,65
+"261","NCAA, South - Second Round","2015","3","19","Utah",5,57,"Stephen F Austin",12,50
+"262","NCAA, West - Second Round","2015","3","19","Wofford",12,53,"Arkansas",5,56
+"263","NCAA, Midwest - Second Round","2015","3","19","Texas",11,48,"Butler",6,56
+"264","NCAA, South - Second Round","2015","3","19","UCLA",11,60,"SMU",6,59
+"265","NCAA, West - Second Round","2015","3","19","Xavier",6,76,"Ole Miss",11,57
+"266","NCAA, West - Second Round","2015","3","19","VCU",7,72,"Ohio State",10,75
+"267","NCAA, East - Second Round","2015","3","19","NC State",8,66,"LSU",9,65
+"268","NCAA, Midwest - Second Round","2015","3","19","Purdue",9,65,"Cincinnati",8,66
+"269","NCAA, South - Second Round","2015","3","20","Robert Morris",16,56,"Duke",1,85
+"270","NCAA, West - Second Round","2015","3","20","Wisconsin",1,86,"Coastal Carolina",16,72
+"271","NCAA, Midwest - Second Round","2015","3","20","New Mexico State",15,56,"Kansas",2,75
+"272","NCAA, South - Second Round","2015","3","20","North Dakota State",15,76,"Gonzaga",2,86
+"273","NCAA, East - Second Round","2015","3","20","Virginia",2,79,"Belmont",15,67
+"274","NCAA, East - Second Round","2015","3","20","Oklahoma",3,69,"Albany NY",14,60
+"275","NCAA, East - Second Round","2015","3","20","Louisville",4,57,"UCIrvine",13,55
+"276","NCAA, Midwest - Second Round","2015","3","20","Valparaiso",13,62,"Maryland",4,65
+"277","NCAA, Midwest - Second Round","2015","3","20","West Virginia",5,68,"Buffalo",12,62
+"278","NCAA, East - Second Round","2015","3","20","Wyoming",12,54,"Northern Iowa",5,71
+"279","NCAA, East - Second Round","2015","3","20","Providence",6,53,"Dayton",11,66
+"280","NCAA, South - Second Round","2015","3","20","Iowa",7,83,"Davidson",10,52
+"281","NCAA, East - Second Round","2015","3","20","Michigan State",7,70,"Georgia",10,63
+"282","NCAA, Midwest - Second Round","2015","3","20","Wichita State",7,81,"Indiana",10,76
+"283","NCAA, West - Second Round","2015","3","20","Oregon",8,79,"Oklahoma State",9,73
+"284","NCAA, South - Second Round","2015","3","20","St Johns NY",9,64,"San Diego State",8,76
+"285","NCAA, Midwest - Third Round","2015","3","21","Kentucky",1,64,"Cincinnati",8,51
+"286","NCAA, East - Third Round","2015","3","21","Villanova",1,68,"NC State",8,71
+"287","NCAA, West - Third Round","2015","3","21","Ohio State",10,58,"Arizona",2,73
+"288","NCAA, Midwest - Third Round","2015","3","21","Notre Dame",3,67,"Butler",6,64
+"289","NCAA, West - Third Round","2015","3","21","UNC",4,87,"Arkansas",5,78
+"290","NCAA, South - Third Round","2015","3","21","Utah",5,75,"Georgetown",4,64
+"291","NCAA, West - Third Round","2015","3","21","Xavier",6,75,"Georgia State",14,67
+"292","NCAA, South - Third Round","2015","3","21","UCLA",11,92,"UAB",14,75
+"293","NCAA, South - Third Round","2015","3","22","San Diego State",8,49,"Duke",1,68
+"294","NCAA, West - Third Round","2015","3","22","Wisconsin",1,72,"Oregon",8,65
+"295","NCAA, South - Third Round","2015","3","22","Iowa",7,68,"Gonzaga",2,87
+"296","NCAA, East - Third Round","2015","3","22","Virginia",2,54,"Michigan State",7,60
+"297","NCAA, Midwest - Third Round","2015","3","22","Wichita State",7,78,"Kansas",2,65
+"298","NCAA, East - Third Round","2015","3","22","Oklahoma",3,72,"Dayton",11,66
+"299","NCAA, East - Third Round","2015","3","22","Northern Iowa",5,53,"Louisville",4,66
+"300","NCAA, Midwest - Third Round","2015","3","22","West Virginia",5,69,"Maryland",4,59
+"301","NCAA, Midwest - Regional Semifinal","2015","3","26","West Virginia",5,39,"Kentucky",1,78
+"302","NCAA, West - Regional Semifinal","2015","3","26","Wisconsin",1,79,"UNC",4,72
+"303","NCAA, West - Regional Semifinal","2015","3","26","Xavier",6,60,"Arizona",2,68
+"304","NCAA, Midwest - Regional Semifinal","2015","3","26","Wichita State",7,70,"Notre Dame",3,81
+"305","NCAA, South - Regional Semifinal","2015","3","27","Utah",5,57,"Duke",1,63
+"306","NCAA, South - Regional Semifinal","2015","3","27","UCLA",11,62,"Gonzaga",2,74
+"307","NCAA, East - Regional Semifinal","2015","3","27","Oklahoma",3,58,"Michigan State",7,62
+"308","NCAA, East - Regional Semifinal","2015","3","27","NC State",8,65,"Louisville",4,75
+"309","NCAA, Midwest - Regional Final","2015","3","28","Notre Dame",3,66,"Kentucky",1,68
+"310","NCAA, West - Regional Final","2015","3","28","Wisconsin",1,85,"Arizona",2,78
+"311","NCAA, South - Regional Final","2015","3","29","Gonzaga",2,52,"Duke",1,66
+"312","NCAA, East - Regional Final","2015","3","29","Michigan State",7,76,"Louisville",4,70
+"313","NCAA, National - National Semifinal","2015","4","4","Michigan State",7,61,"Duke",1,81
+"314","NCAA, National - National Semifinal","2015","4","4","Wisconsin",1,71,"Kentucky",1,64
+"315","NCAA, National - National Final","2015","4","6","Wisconsin",1,63,"Duke",1,68
+"316","NCAA, South - First Round","2016","3","17","Austin Peay",16,79,"Kansas",1,105
+"317","NCAA, East - First Round","2016","3","17","Florida Gulf Coast",16,67,"UNC",1,83
+"318","NCAA, Midwest - First Round","2016","3","17","Hampton",16,45,"Virginia",1,81
+"319","NCAA, South - First Round","2016","3","17","Buffalo",14,72,"Miami FL",3,79
+"320","NCAA, Midwest - First Round","2016","3","17","Fresno State",14,69,"Utah",3,80
+"321","NCAA, Midwest - First Round","2016","3","17","Iona",13,81,"Iowa State",4,94
+"322","NCAA, West - First Round","2016","3","17","UNC Wilmington",13,85,"Duke",4,93
+"323","NCAA, East - First Round","2016","3","17","Stony Brook",13,57,"Kentucky",4,85
+"324","NCAA, Midwest - First Round","2016","3","17","Little Rock",12,85,"Purdue",5,83
+"325","NCAA, East - First Round","2016","3","17","Chattanooga",12,74,"Indiana",5,99
+"326","NCAA, West - First Round","2016","3","17","Yale",12,79,"Baylor",5,75
+"327","NCAA, Midwest - First Round","2016","3","17","Gonzaga",11,68,"Seton Hall",6,52
+"328","NCAA, South - First Round","2016","3","17","Wichita State",11,65,"Arizona",6,55
+"329","NCAA, Midwest - First Round","2016","3","17","Butler",9,71,"Texas Tech",8,61
+"330","NCAA, South - First Round","2016","3","17","UConn",9,74,"Colorado",8,67
+"331","NCAA, East - First Round","2016","3","17","Providence",9,70,"USC",8,69
+"332","NCAA, West - First Round","2016","3","18","Holy Cross",16,52,"Oregon",1,91
+"333","NCAA, West - First Round","2016","3","18","Cal State Bakersfield",15,68,"Oklahoma",2,82
+"334","NCAA, Midwest - First Round","2016","3","18","Middle Tennessee",15,90,"Michigan State",2,81
+"335","NCAA, South - First Round","2016","3","18","UNC Asheville",15,56,"Villanova",2,86
+"336","NCAA, East - First Round","2016","3","18","Weber State",15,53,"Xavier",2,71
+"337","NCAA, West - First Round","2016","3","18","Green Bay",14,65,"Texas AM",3,92
+"338","NCAA, East - First Round","2016","3","18","Stephen F Austin",14,70,"West Virginia",3,56
+"339","NCAA, South - First Round","2016","3","18","Hawaii",13,77,"California",4,66
+"340","NCAA, South - First Round","2016","3","18","South Dakota State",12,74,"Maryland",5,79
+"341","NCAA, East - First Round","2016","3","18","Michigan",11,63,"Notre Dame",6,70
+"342","NCAA, West - First Round","2016","3","18","Northern Iowa",11,75,"Texas",6,72
+"343","NCAA, East - First Round","2016","3","18","Pitt",10,43,"Wisconsin",7,47
+"344","NCAA, Midwest - First Round","2016","3","18","Syracuse",10,70,"Dayton",7,51
+"345","NCAA, South - First Round","2016","3","18","Temple",10,70,"Iowa",7,72
+"346","NCAA, West - First Round","2016","3","18","VCU",10,75,"Oregon State",7,67
+"347","NCAA, West - First Round","2016","3","18","Cincinnati",9,76,"St Josephs",8,78
+"348","NCAA, Midwest - Second Round","2016","3","19","Butler",9,69,"Virginia",1,77
+"349","NCAA, South - Second Round","2016","3","19","UConn",9,61,"Kansas",1,73
+"350","NCAA, East - Second Round","2016","3","19","Providence",9,66,"UNC",1,85
+"351","NCAA, Midwest - Second Round","2016","3","19","Gonzaga",11,82,"Utah",3,59
+"352","NCAA, South - Second Round","2016","3","19","Wichita State",11,57,"Miami FL",3,65
+"353","NCAA, Midwest - Second Round","2016","3","19","Little Rock",12,61,"Iowa State",4,78
+"354","NCAA, East - Second Round","2016","3","19","Indiana",5,73,"Kentucky",4,67
+"355","NCAA, West - Second Round","2016","3","19","Yale",12,64,"Duke",4,71
+"356","NCAA, West - Second Round","2016","3","20","St Josephs",8,64,"Oregon",1,69
+"357","NCAA, South - Second Round","2016","3","20","Iowa",7,68,"Villanova",2,87
+"358","NCAA, West - Second Round","2016","3","20","VCU",10,81,"Oklahoma",2,85
+"359","NCAA, East - Second Round","2016","3","20","Wisconsin",7,66,"Xavier",2,63
+"360","NCAA, West - Second Round","2016","3","20","Northern Iowa",11,88,"Texas AM",3,92
+"361","NCAA, South - Second Round","2016","3","20","Hawaii",13,60,"Maryland",5,73
+"362","NCAA, East - Second Round","2016","3","20","Stephen F Austin",14,75,"Notre Dame",6,76
+"363","NCAA, Midwest - Second Round","2016","3","20","Middle Tennessee",15,50,"Syracuse",10,75
+"364","NCAA, West - Regional Semifinal","2016","3","24","Duke",4,68,"Oregon",1,82
+"365","NCAA, South - Regional Semifinal","2016","3","24","Maryland",5,63,"Kansas",1,79
+"366","NCAA, South - Regional Semifinal","2016","3","24","Miami FL",3,69,"Villanova",2,92
+"367","NCAA, West - Regional Semifinal","2016","3","24","Texas AM",3,63,"Oklahoma",2,77
+"368","NCAA, East - Regional Semifinal","2016","3","25","Indiana",5,86,"UNC",1,101
+"369","NCAA, Midwest - Regional Semifinal","2016","3","25","Iowa State",4,71,"Virginia",1,84
+"370","NCAA, East - Regional Semifinal","2016","3","25","Wisconsin",7,56,"Notre Dame",6,61
+"371","NCAA, Midwest - Regional Semifinal","2016","3","25","Gonzaga",11,60,"Syracuse",10,63
+"372","NCAA, West - Regional Final","2016","3","26","Oklahoma",2,80,"Oregon",1,68
+"373","NCAA, South - Regional Final","2016","3","26","Villanova",2,64,"Kansas",1,59
+"374","NCAA, East - Regional Final","2016","3","27","Notre Dame",6,74,"UNC",1,88
+"375","NCAA, Midwest - Regional Final","2016","3","27","Syracuse",10,68,"Virginia",1,62
+"376","NCAA, National - National Semifinal","2016","4","2","Syracuse",10,66,"UNC",1,83
+"377","NCAA, National - National Semifinal","2016","4","2","Villanova",2,95,"Oklahoma",2,51
+"378","NCAA, National - National Final","2016","4","4","Villanova",2,77,"UNC",1,74
+"379","NCAA, East - First Round","2017","3","16","Mount St Marys",16,56,"Villanova",1,76
+"380","NCAA, West - First Round","2017","3","16","South Dakota State",16,46,"Gonzaga",1,66
+"381","NCAA, West - First Round","2017","3","16","North Dakota",15,82,"Arizona",2,100
+"382","NCAA, West - First Round","2017","3","16","Florida Gulf Coast",14,80,"Florida State",3,86
+"383","NCAA, West - First Round","2017","3","16","Bucknell",13,80,"West Virginia",4,86
+"384","NCAA, East - First Round","2017","3","16","ETSU",13,65,"Florida",4,80
+"385","NCAA, Midwest - First Round","2017","3","16","Vermont",13,70,"Purdue",4,80
+"386","NCAA, South - First Round","2017","3","16","Winthrop",13,64,"Butler",4,76
+"387","NCAA, South - First Round","2017","3","16","Middle Tennessee",12,81,"Minnesota",5,72
+"388","NCAA, Midwest - First Round","2017","3","16","Nevada",12,73,"Iowa State",5,84
+"389","NCAA, East - First Round","2017","3","16","UNC Wilmington",12,71,"Virginia",5,76
+"390","NCAA, West - First Round","2017","3","16","Princeton",12,58,"Notre Dame",5,60
+"391","NCAA, West - First Round","2017","3","16","Xavier",11,76,"Maryland",6,65
+"392","NCAA, West - First Round","2017","3","16","VCU",10,77,"Saint Marys",7,85
+"393","NCAA, West - First Round","2017","3","16","Vanderbilt",9,66,"Northwestern",8,68
+"394","NCAA, East - First Round","2017","3","16","Virginia Tech",9,74,"Wisconsin",8,84
+"395","NCAA, Midwest - First Round","2017","3","17","UCDavis",16,62,"Kansas",1,100
+"396","NCAA, South - First Round","2017","3","17","Texas Southern",16,64,"UNC",1,103
+"397","NCAA, Midwest - First Round","2017","3","17","Jacksonville State",15,63,"Louisville",2,78
+"398","NCAA, South - First Round","2017","3","17","Northern Kentucky",15,70,"Kentucky",2,79
+"399","NCAA, East - First Round","2017","3","17","Troy",15,65,"Duke",2,87
+"400","NCAA, Midwest - First Round","2017","3","17","Iona",14,77,"Oregon",3,93
+"401","NCAA, South - First Round","2017","3","17","Kent State",14,80,"UCLA",3,97
+"402","NCAA, East - First Round","2017","3","17","New Mexico State",14,73,"Baylor",3,91
+"403","NCAA, South - First Round","2017","3","17","Kansas State",11,61,"Cincinnati",6,75
+"404","NCAA, Midwest - First Round","2017","3","17","Rhode Island",11,84,"Creighton",6,72
+"405","NCAA, East - First Round","2017","3","17","USC",11,66,"SMU",6,65
+"406","NCAA, East - First Round","2017","3","17","Marquette",10,73,"South Carolina",7,93
+"407","NCAA, Midwest - First Round","2017","3","17","Oklahoma State",10,91,"Michigan",7,92
+"408","NCAA, South - First Round","2017","3","17","Wichita State",10,64,"Dayton",7,58
+"409","NCAA, Midwest - First Round","2017","3","17","Michigan State",9,78,"Miami FL",8,58
+"410","NCAA, South - First Round","2017","3","17","Seton Hall",9,71,"Arkansas",8,77
+"411","NCAA, West - Second Round","2017","3","18","Northwestern",8,73,"Gonzaga",1,79
+"412","NCAA, East - Second Round","2017","3","18","Wisconsin",8,65,"Villanova",1,62
+"413","NCAA, West - Second Round","2017","3","18","Saint Marys",7,60,"Arizona",2,69
+"414","NCAA, West - Second Round","2017","3","18","Xavier",11,91,"Florida State",3,66
+"415","NCAA, Midwest - Second Round","2017","3","18","Iowa State",5,76,"Purdue",4,80
+"416","NCAA, South - Second Round","2017","3","18","Middle Tennessee",12,65,"Butler",4,74
+"417","NCAA, West - Second Round","2017","3","18","Notre Dame",5,71,"West Virginia",4,83
+"418","NCAA, East - Second Round","2017","3","18","Virginia",5,39,"Florida",4,65
+"419","NCAA, South - Second Round","2017","3","19","Arkansas",8,65,"UNC",1,72
+"420","NCAA, Midwest - Second Round","2017","3","19","Michigan State",9,70,"Kansas",1,90
+"421","NCAA, Midwest - Second Round","2017","3","19","Michigan",7,73,"Louisville",2,69
+"422","NCAA, East - Second Round","2017","3","19","South Carolina",7,88,"Duke",2,81
+"423","NCAA, South - Second Round","2017","3","19","Wichita State",10,62,"Kentucky",2,65
+"424","NCAA, South - Second Round","2017","3","19","Cincinnati",6,67,"UCLA",3,79
+"425","NCAA, Midwest - Second Round","2017","3","19","Rhode Island",11,72,"Oregon",3,75
+"426","NCAA, East - Second Round","2017","3","19","USC",11,78,"Baylor",3,82
+"427","NCAA, Midwest - Regional Semifinal","2017","3","23","Purdue",4,66,"Kansas",1,98
+"428","NCAA, West - Regional Semifinal","2017","3","23","West Virginia",4,58,"Gonzaga",1,61
+"429","NCAA, West - Regional Semifinal","2017","3","23","Xavier",11,73,"Arizona",2,71
+"430","NCAA, Midwest - Regional Semifinal","2017","3","23","Michigan",7,68,"Oregon",3,69
+"431","NCAA, South - Regional Semifinal","2017","3","24","Butler",4,80,"UNC",1,92
+"432","NCAA, South - Regional Semifinal","2017","3","24","UCLA",3,75,"Kentucky",2,86
+"433","NCAA, East - Regional Semifinal","2017","3","24","South Carolina",7,70,"Baylor",3,50
+"434","NCAA, East - Regional Semifinal","2017","3","24","Wisconsin",8,83,"Florida",4,84
+"435","NCAA, Midwest - Regional Final","2017","3","25","Oregon",3,74,"Kansas",1,60
+"436","NCAA, West - Regional Final","2017","3","25","Xavier",11,59,"Gonzaga",1,83
+"437","NCAA, South - Regional Final","2017","3","26","Kentucky",2,73,"UNC",1,75
+"438","NCAA, East - Regional Final","2017","3","26","South Carolina",7,77,"Florida",4,70
+"439","NCAA, National - National Semifinal","2017","4","1","Oregon",3,76,"UNC",1,77
+"440","NCAA, National - National Semifinal","2017","4","1","South Carolina",7,73,"Gonzaga",1,77
+"441","NCAA, National - National Final","2017","4","3","Gonzaga",1,65,"UNC",1,71
+"442","NCAA, Midwest - First Round","2018","3","15","Penn",16,60,"Kansas",1,76
+"443","NCAA, East - First Round","2018","3","15","Radford",16,61,"Villanova",1,87
+"444","NCAA, Midwest - First Round","2018","3","15","Iona",15,67,"Duke",2,89
+"445","NCAA, West - First Round","2018","3","15","Montana",14,47,"Michigan",3,61
+"446","NCAA, East - First Round","2018","3","15","Stephen F Austin",14,60,"Texas Tech",3,70
+"447","NCAA, South - First Round","2018","3","15","Wright State",14,47,"Tennessee",3,73
+"448","NCAA, South - First Round","2018","3","15","Buffalo",13,89,"Arizona",4,68
+"449","NCAA, West - First Round","2018","3","15","UNC Greensboro",13,64,"Gonzaga",4,68
+"450","NCAA, South - First Round","2018","3","15","Davidson",12,73,"Kentucky",5,78
+"451","NCAA, West - First Round","2018","3","15","South Dakota State",12,73,"Ohio State",5,81
+"452","NCAA, South - First Round","2018","3","15","Loyola IL",11,64,"Miami FL",6,62
+"453","NCAA, West - First Round","2018","3","15","San Diego State",11,65,"Houston",6,67
+"454","NCAA, East - First Round","2018","3","15","St Bonaventure",11,62,"Florida",6,77
+"455","NCAA, Midwest - First Round","2018","3","15","Oklahoma",10,78,"Rhode Island",7,83
+"456","NCAA, East - First Round","2018","3","15","Alabama",9,86,"Virginia Tech",8,83
+"457","NCAA, Midwest - First Round","2018","3","15","NC State",9,83,"Seton Hall",8,94
+"458","NCAA, South - First Round","2018","3","16","UMBC",16,74,"Virginia",1,54
+"459","NCAA, West - First Round","2018","3","16","Texas Southern",16,83,"Xavier",1,102
+"460","NCAA, East - First Round","2018","3","16","Cal State Fullerton",15,48,"Purdue",2,74
+"461","NCAA, South - First Round","2018","3","16","Georgia State",15,53,"Cincinnati",2,68
+"462","NCAA, West - First Round","2018","3","16","Lipscomb",15,66,"UNC",2,84
+"463","NCAA, Midwest - First Round","2018","3","16","Bucknell",14,78,"Michigan State",3,82
+"464","NCAA, Midwest - First Round","2018","3","16","College of Charleston",13,58,"Auburn",4,62
+"465","NCAA, East - First Round","2018","3","16","Marshall",13,81,"Wichita State",4,75
+"466","NCAA, East - First Round","2018","3","16","Murray State",12,68,"West Virginia",5,85
+"467","NCAA, Midwest - First Round","2018","3","16","New Mexico State",12,68,"Clemson",5,79
+"468","NCAA, Midwest - First Round","2018","3","16","Syracuse",11,57,"TCU",6,52
+"469","NCAA, East - First Round","2018","3","16","Butler",10,79,"Arkansas",7,62
+"470","NCAA, West - First Round","2018","3","16","Providence",10,69,"Texas AM",7,73
+"471","NCAA, South - First Round","2018","3","16","Texas",10,83,"Nevada",7,87
+"472","NCAA, West - First Round","2018","3","16","Florida State",9,67,"Missouri",8,54
+"473","NCAA, South - First Round","2018","3","16","Kansas State",9,69,"Creighton",8,59
+"474","NCAA, East - Second Round","2018","3","17","Alabama",9,58,"Villanova",1,81
+"475","NCAA, Midwest - Second Round","2018","3","17","Seton Hall",8,79,"Kansas",1,83
+"476","NCAA, Midwest - Second Round","2018","3","17","Rhode Island",7,62,"Duke",2,87
+"477","NCAA, East - Second Round","2018","3","17","Florida",6,66,"Texas Tech",3,69
+"478","NCAA, West - Second Round","2018","3","17","Houston",6,63,"Michigan",3,64
+"479","NCAA, South - Second Round","2018","3","17","Loyola IL",11,63,"Tennessee",3,62
+"480","NCAA, West - Second Round","2018","3","17","Ohio State",5,84,"Gonzaga",4,90
+"481","NCAA, South - Second Round","2018","3","17","Buffalo",13,75,"Kentucky",5,95
+"482","NCAA, West - Second Round","2018","3","18","Florida State",9,75,"Xavier",1,70
+"483","NCAA, East - Second Round","2018","3","18","Butler",10,73,"Purdue",2,76
+"484","NCAA, South - Second Round","2018","3","18","Nevada",7,75,"Cincinnati",2,73
+"485","NCAA, West - Second Round","2018","3","18","Texas AM",7,86,"UNC",2,65
+"486","NCAA, Midwest - Second Round","2018","3","18","Syracuse",11,55,"Michigan State",3,53
+"487","NCAA, Midwest - Second Round","2018","3","18","Clemson",5,84,"Auburn",4,53
+"488","NCAA, East - Second Round","2018","3","18","Marshall",13,71,"West Virginia",5,94
+"489","NCAA, South - Second Round","2018","3","18","UMBC",16,43,"Kansas State",9,50
+"490","NCAA, West - Regional Semifinal","2018","3","22","Texas AM",7,72,"Michigan",3,99
+"491","NCAA, West - Regional Semifinal","2018","3","22","Florida State",9,75,"Gonzaga",4,60
+"492","NCAA, South - Regional Semifinal","2018","3","22","Kansas State",9,61,"Kentucky",5,58
+"493","NCAA, South - Regional Semifinal","2018","3","22","Loyola IL",11,69,"Nevada",7,68
+"494","NCAA, Midwest - Regional Semifinal","2018","3","23","Clemson",5,76,"Kansas",1,80
+"495","NCAA, East - Regional Semifinal","2018","3","23","West Virginia",5,78,"Villanova",1,90
+"496","NCAA, Midwest - Regional Semifinal","2018","3","23","Syracuse",11,65,"Duke",2,69
+"497","NCAA, East - Regional Semifinal","2018","3","23","Texas Tech",3,78,"Purdue",2,65
+"498","NCAA, West - Regional Final","2018","3","24","Florida State",9,54,"Michigan",3,58
+"499","NCAA, South - Regional Final","2018","3","24","Loyola IL",11,78,"Kansas State",9,62
+"500","NCAA, Midwest - Regional Final","2018","3","25","Duke",2,81,"Kansas",1,85
+"501","NCAA, East - Regional Final","2018","3","25","Texas Tech",3,59,"Villanova",1,71
+"502","NCAA, National - National Semifinal","2018","3","31","Villanova",1,95,"Kansas",1,79
+"503","NCAA, National - National Semifinal","2018","3","31","Loyola IL",11,57,"Michigan",3,69
+"504","NCAA, National - National Final","2018","4","2","Michigan",3,62,"Villanova",1,79
+"505","NCAA, West - First Round","2019","3","21","Fairleigh Dickinson",16,49,"Gonzaga",1,87
+"506","NCAA, Midwest - First Round","2019","3","21","Abilene Christian",15,44,"Kentucky",2,79
+"507","NCAA, East - First Round","2019","3","21","Bradley",15,65,"Michigan State",2,76
+"508","NCAA, West - First Round","2019","3","21","Montana",15,55,"Michigan",2,74
+"509","NCAA, South - First Round","2019","3","21","Old Dominion",14,48,"Purdue",3,61
+"510","NCAA, East - First Round","2019","3","21","Yale",14,74,"LSU",3,79
+"511","NCAA, Midwest - First Round","2019","3","21","Northeastern",13,53,"Kansas",4,87
+"512","NCAA, West - First Round","2019","3","21","Vermont",13,69,"Florida State",4,76
+"513","NCAA, West - First Round","2019","3","21","Murray State",12,83,"Marquette",5,64
+"514","NCAA, Midwest - First Round","2019","3","21","New Mexico State",12,77,"Auburn",5,78
+"515","NCAA, East - First Round","2019","3","21","Belmont",11,77,"Maryland",6,79
+"516","NCAA, South - First Round","2019","3","21","Saint Marys",11,57,"Villanova",6,61
+"517","NCAA, West - First Round","2019","3","21","Florida",10,70,"Nevada",7,61
+"518","NCAA, East - First Round","2019","3","21","Minnesota",10,86,"Louisville",7,76
+"519","NCAA, Midwest - First Round","2019","3","21","Seton Hall",10,68,"Wofford",7,84
+"520","NCAA, West - First Round","2019","3","21","Baylor",9,78,"Syracuse",8,69
+"521","NCAA, South - First Round","2019","3","22","GardnerWebb",16,56,"Virginia",1,71
+"522","NCAA, Midwest - First Round","2019","3","22","Iona",16,73,"UNC",1,88
+"523","NCAA, East - First Round","2019","3","22","North Dakota State",16,62,"Duke",1,85
+"524","NCAA, South - First Round","2019","3","22","Colgate",15,70,"Tennessee",2,77
+"525","NCAA, Midwest - First Round","2019","3","22","Georgia State",14,55,"Houston",3,84
+"526","NCAA, West - First Round","2019","3","22","Northern Kentucky",14,57,"Texas Tech",3,72
+"527","NCAA, South - First Round","2019","3","22","UCIrvine",13,70,"Kansas State",4,64
+"528","NCAA, East - First Round","2019","3","22","Saint Louis",13,52,"Virginia Tech",4,66
+"529","NCAA, East - First Round","2019","3","22","Liberty",12,80,"Mississippi State",5,76
+"530","NCAA, South - First Round","2019","3","22","Oregon",12,72,"Wisconsin",5,54
+"531","NCAA, West - First Round","2019","3","22","Arizona State",11,74,"Buffalo",6,91
+"532","NCAA, Midwest - First Round","2019","3","22","Ohio State",11,62,"Iowa State",6,59
+"533","NCAA, South - First Round","2019","3","22","Iowa",10,79,"Cincinnati",7,72
+"534","NCAA, East - First Round","2019","3","22","UCF",9,73,"VCU",8,58
+"535","NCAA, South - First Round","2019","3","22","Oklahoma",9,95,"Ole Miss",8,72
+"536","NCAA, Midwest - First Round","2019","3","22","Washington",9,78,"Utah State",8,61
+"537","NCAA, West - Second Round","2019","3","23","Baylor",9,71,"Gonzaga",1,83
+"538","NCAA, West - Second Round","2019","3","23","Florida",10,49,"Michigan",2,64
+"539","NCAA, East - Second Round","2019","3","23","Minnesota",10,50,"Michigan State",2,70
+"540","NCAA, Midwest - Second Round","2019","3","23","Wofford",7,56,"Kentucky",2,62
+"541","NCAA, East - Second Round","2019","3","23","Maryland",6,67,"LSU",3,69
+"542","NCAA, South - Second Round","2019","3","23","Villanova",6,61,"Purdue",3,87
+"543","NCAA, Midwest - Second Round","2019","3","23","Auburn",5,89,"Kansas",4,75
+"544","NCAA, West - Second Round","2019","3","23","Murray State",12,62,"Florida State",4,90
+"545","NCAA, East - Second Round","2019","3","24","UCF",9,76,"Duke",1,77
+"546","NCAA, South - Second Round","2019","3","24","Oklahoma",9,51,"Virginia",1,63
+"547","NCAA, Midwest - Second Round","2019","3","24","Washington",9,59,"UNC",1,81
+"548","NCAA, South - Second Round","2019","3","24","Iowa",10,77,"Tennessee",2,83
+"549","NCAA, West - Second Round","2019","3","24","Buffalo",6,58,"Texas Tech",3,78
+"550","NCAA, Midwest - Second Round","2019","3","24","Ohio State",11,59,"Houston",3,74
+"551","NCAA, East - Second Round","2019","3","24","Liberty",12,58,"Virginia Tech",4,67
+"552","NCAA, South - Second Round","2019","3","24","UCIrvine",13,54,"Oregon",12,73
+"553","NCAA, West - Regional Semifinal","2019","3","28","Florida State",4,58,"Gonzaga",1,72
+"554","NCAA, South - Regional Semifinal","2019","3","28","Oregon",12,49,"Virginia",1,53
+"555","NCAA, South - Regional Semifinal","2019","3","28","Purdue",3,99,"Tennessee",2,94
+"556","NCAA, West - Regional Semifinal","2019","3","28","Texas Tech",3,63,"Michigan",2,44
+"557","NCAA, Midwest - Regional Semifinal","2019","3","29","Auburn",5,97,"UNC",1,80
+"558","NCAA, East - Regional Semifinal","2019","3","29","Virginia Tech",4,73,"Duke",1,75
+"559","NCAA, Midwest - Regional Semifinal","2019","3","29","Houston",3,58,"Kentucky",2,62
+"560","NCAA, East - Regional Semifinal","2019","3","29","LSU",3,63,"Michigan State",2,80
+"561","NCAA, South - Regional Final","2019","3","30","Purdue",3,75,"Virginia",1,80
+"562","NCAA, West - Regional Final","2019","3","30","Texas Tech",3,75,"Gonzaga",1,69
+"563","NCAA, East - Regional Final","2019","3","31","Michigan State",2,68,"Duke",1,67
+"564","NCAA, Midwest - Regional Final","2019","3","31","Auburn",5,77,"Kentucky",2,71
+"565","NCAA, National - National Semifinal","2019","4","6","Auburn",5,62,"Virginia",1,63
+"566","NCAA, National - National Semifinal","2019","4","6","Texas Tech",3,61,"Michigan State",2,51
+"567","NCAA, National - National Final","2019","4","8","Texas Tech",3,77,"Virginia",1,85
+"568","NCAA, Midwest - First Round","2021","3","19","Drexel",16,49,"Illinois",1,78
+"569","NCAA, South - First Round","2021","3","19","Hartford",16,55,"Baylor",1,79
+"570","NCAA, Midwest - First Round","2021","3","19","Cleveland State",15,56,"Houston",2,87
+"571","NCAA, South - First Round","2021","3","19","Oral Roberts",15,75,"Ohio State",2,72
+"572","NCAA, South - First Round","2021","3","19","Colgate",14,68,"Arkansas",3,85
+"573","NCAA, Midwest - First Round","2021","3","19","Morehead State",14,67,"West Virginia",3,84
+"574","NCAA, Midwest - First Round","2021","3","19","Liberty",13,60,"Oklahoma State",4,69
+"575","NCAA, South - First Round","2021","3","19","North Texas",13,78,"Purdue",4,69
+"576","NCAA, Midwest - First Round","2021","3","19","Oregon State",12,70,"Tennessee",5,56
+"577","NCAA, South - First Round","2021","3","19","Winthrop",12,63,"Villanova",5,73
+"578","NCAA, Midwest - First Round","2021","3","19","Syracuse",11,78,"San Diego State",6,62
+"579","NCAA, South - First Round","2021","3","19","Utah State",11,53,"Texas Tech",6,65
+"580","NCAA, Midwest - First Round","2021","3","19","Rutgers",10,60,"Clemson",7,56
+"581","NCAA, South - First Round","2021","3","19","Virginia Tech",10,70,"Florida",7,75
+"582","NCAA, Midwest - First Round","2021","3","19","Georgia Tech",9,60,"Loyola IL",8,71
+"583","NCAA, South - First Round","2021","3","19","Wisconsin",9,85,"UNC",8,62
+"584","NCAA, West - First Round","2021","3","20","Norfolk State",16,55,"Gonzaga",1,98
+"585","NCAA, East - First Round","2021","3","20","Texas Southern",16,66,"Michigan",1,82
+"586","NCAA, West - First Round","2021","3","20","Grand Canyon",15,74,"Iowa",2,86
+"587","NCAA, East - First Round","2021","3","20","Iona",15,55,"Alabama",2,68
+"588","NCAA, East - First Round","2021","3","20","Abilene Christian",14,53,"Texas",3,52
+"589","NCAA, West - First Round","2021","3","20","Eastern Washington",14,84,"Kansas",3,93
+"590","NCAA, East - First Round","2021","3","20","UNC Greensboro",13,54,"Florida State",4,64
+"591","NCAA, West - First Round","2021","3","20","Ohio",13,62,"Virginia",4,58
+"592","NCAA, West - First Round","2021","3","20","UCSB",12,62,"Creighton",5,63
+"593","NCAA, East - First Round","2021","3","20","Georgetown",12,73,"Colorado",5,96
+"594","NCAA, West - First Round","2021","3","20","Drake",11,56,"USC",6,72
+"595","NCAA, East - First Round","2021","3","20","UCLA",11,73,"BYU",6,62
+"596","NCAA, East - First Round","2021","3","20","Maryland",10,63,"UConn",7,54
+"597","NCAA, West - First Round","2021","3","20","VCU",10,NA,"Oregon",7,NA
+"598","NCAA, West - First Round","2021","3","20","Missouri",9,68,"Oklahoma",8,72
+"599","NCAA, East - First Round","2021","3","20","St Bonaventure",9,61,"LSU",8,76
+"600","NCAA, Midwest - Second Round","2021","3","21","Loyola IL",8,71,"Illinois",1,58
+"601","NCAA, South - Second Round","2021","3","21","Wisconsin",9,63,"Baylor",1,76
+"602","NCAA, Midwest - Second Round","2021","3","21","Rutgers",10,60,"Houston",2,63
+"603","NCAA, Midwest - Second Round","2021","3","21","Syracuse",11,75,"West Virginia",3,72
+"604","NCAA, South - Second Round","2021","3","21","Texas Tech",6,66,"Arkansas",3,68
+"605","NCAA, Midwest - Second Round","2021","3","21","Oregon State",12,80,"Oklahoma State",4,70
+"606","NCAA, South - Second Round","2021","3","21","North Texas",13,61,"Villanova",5,84
+"607","NCAA, South - Second Round","2021","3","21","Oral Roberts",15,81,"Florida",7,78
+"608","NCAA, East - Second Round","2021","3","22","LSU",8,78,"Michigan",1,86
+"609","NCAA, West - Second Round","2021","3","22","Oklahoma",8,71,"Gonzaga",1,87
+"610","NCAA, East - Second Round","2021","3","22","Maryland",10,77,"Alabama",2,96
+"611","NCAA, West - Second Round","2021","3","22","Oregon",7,95,"Iowa",2,80
+"612","NCAA, West - Second Round","2021","3","22","USC",6,85,"Kansas",3,51
+"613","NCAA, East - Second Round","2021","3","22","Colorado",5,53,"Florida State",4,71
+"614","NCAA, West - Second Round","2021","3","22","Ohio",13,58,"Creighton",5,72
+"615","NCAA, East - Second Round","2021","3","22","Abilene Christian",14,47,"UCLA",11,67
+"616","NCAA, South - Regional Semifinal","2021","3","27","Villanova",5,51,"Baylor",1,62
+"617","NCAA, Midwest - Regional Semifinal","2021","3","27","Syracuse",11,46,"Houston",2,62
+"618","NCAA, South - Regional Semifinal","2021","3","27","Oral Roberts",15,70,"Arkansas",3,72
+"619","NCAA, Midwest - Regional Semifinal","2021","3","27","Oregon State",12,65,"Loyola IL",8,58
+"620","NCAA, West - Regional Semifinal","2021","3","28","Creighton",5,65,"Gonzaga",1,83
+"621","NCAA, East - Regional Semifinal","2021","3","28","Florida State",4,58,"Michigan",1,76
+"622","NCAA, East - Regional Semifinal","2021","3","28","UCLA",11,88,"Alabama",2,78
+"623","NCAA, West - Regional Semifinal","2021","3","28","Oregon",7,68,"USC",6,82
+"624","NCAA, South - Regional Final","2021","3","29","Arkansas",3,72,"Baylor",1,81
+"625","NCAA, Midwest - Regional Final","2021","3","29","Oregon State",12,61,"Houston",2,67
+"626","NCAA, West - Regional Final","2021","3","30","USC",6,66,"Gonzaga",1,85
+"627","NCAA, East - Regional Final","2021","3","30","UCLA",11,51,"Michigan",1,49
+"628","NCAA, National - National Semifinal","2021","4","3","Houston",2,59,"Baylor",1,78
+"629","NCAA, National - National Semifinal","2021","4","3","UCLA",11,90,"Gonzaga",1,93
+"630","NCAA, National - National Final","2021","4","5","Baylor",1,86,"Gonzaga",1,70
